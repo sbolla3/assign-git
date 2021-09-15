@@ -1,15 +1,4 @@
 What is a gitignore file and what should it include for a Java project?
-
-gitignore ignores all the untracked files intentionally and it should include a file of untracked files which are to be ignored.
-
 What does fast-forward in Git mean?
-
-Updates the head pointer to the successor of the prior value.
-
 Why should you have different branches?
-
-Allows users to hide data from each branches helps in increasing the scalability of the program.
-
 In a project how many remote Git repositories do you usually have?
-
-We can have many repositories as we want.
